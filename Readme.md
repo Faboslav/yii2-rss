@@ -1,7 +1,4 @@
 # RSS Extension for Yii2
-
-Module for project build with dactylcore/core package. 
-
 ## Installation
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
