@@ -1,0 +1,24 @@
+{
+    "name": "faboslav/yii2-rss",
+    "description": "Yii2 RSS module",
+    "keywords": ["yii2", "rss", "module", "faboslav"],
+    "homepage": "https://alesfabianek.cz",
+    "type": "yii2-extension",
+    "license": "The MIT License (MIT)",
+    "support": {
+        "issues": "https://github.com/Faboslav/yii2-rss/issues",
+        "source": "https://github.com/Faboslav/yii2-rss"
+    },
+    "authors": [
+        {
+            "name": "Aleš Fabiánek",
+            "email": "fabianek.ales@gmail.com",
+            "homepage": "https://www.alesfabianek.cz"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "faboslav\\rss\\": ""
+        }
+    }
+}
