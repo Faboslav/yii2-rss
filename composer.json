@@ -4,7 +4,6 @@
     "keywords": ["yii2", "rss", "module", "faboslav"],
     "homepage": "https://alesfabianek.cz",
     "type": "yii2-extension",
-    "license": "The MIT License (MIT)",
     "support": {
         "issues": "https://github.com/Faboslav/yii2-rss/issues",
         "source": "https://github.com/Faboslav/yii2-rss"
